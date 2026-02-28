@@ -1,0 +1,10 @@
+# Project MCP profile for E:\tmp3\frontend
+# Mirror these entries in C:\Users\ASUS\.codex\config.toml to activate.
+
+[mcp_servers.filesystem]
+command = "npx"
+args = ["-y", "@modelcontextprotocol/server-filesystem", "E:\\tmp3\\frontend"]
+
+[mcp_servers.playwright]
+command = "npx"
+args = ["-y", "@playwright/mcp@latest"]

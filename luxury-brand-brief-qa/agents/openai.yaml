@@ -1,0 +1,3 @@
+display_name: Luxury Brand Brief QA
+short_description: Audit and tighten premium client briefs into decision-ready direction.
+default_prompt: Review this client brief and return a structured premium strategy audit with gaps, risks, and a rewritten actionable brief.
